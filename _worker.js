@@ -7,8 +7,7 @@ const rootDomain = "himazusamawa.workers.dev"; // Ganti dengan domain utama kali
 const serviceName = "hm-storeid"; // Ganti dengan nama workers kalian
 const apiKey = "EacSfCOMtKu02hPrwf1DeixXFM4hp62hQXXREoNc"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "himazusamawa@gmail.com"; // Ganti dengan email yang kalian gunakan
-const accountID = "
-d9b86c66-c2c1-4aca-b0fb-f5e10eab5bc0"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const accountID = "d9b86c66-c2c1-4aca-b0fb-f5e10eab5bc0"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "https://hm-storeid.himazusamawa.workers.dev"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
 let proxyIP = "";
